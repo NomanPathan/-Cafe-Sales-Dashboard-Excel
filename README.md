@@ -142,6 +142,6 @@ Based on the dashboard analysis:
 6. Use customer purchasing patterns to improve product and marketing strategies.
 7. Track payment-method preferences to improve the customer payment experience.
 
-👤 Author
-Noman Akhtar
+👤 Author-
+Noman Akhtar-
 Data Analytics | Excel | SQL | Power Query | Power BI |Python | Data Visualization
