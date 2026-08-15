@@ -56,18 +56,18 @@ The data preparation process included:
 
 ---
 
+
 ## 📌 Key Performance Indicators
 
 | KPI | Value |
 |---|---:|
-| Total Revenue | — |
-| Total Transactions | — |
-| Total Quantity Sold | — |
-| Average Transaction Value | — |
-| Top-Selling Product | — |
+| Total Revenue | ₹3.09M |
+| Total Profit | ₹1.52M |
+| Total Orders | 17.44K |
+| Total Quantity Sold | 29.55K |
+| Average Order Value | ₹177.04 |
 
 > KPI values represent the current dashboard/filter state.
-
 ---
 
 ## 📈 Dashboard Features
